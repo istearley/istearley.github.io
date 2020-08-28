@@ -1,21 +1,8 @@
-header .top-bar .brand img {
-    max-width:200px;
-    height:auto;
-}
 
-.template--collection-grid-without-filter .title-bar{
-          background-image:none !important;
-         background-color: #fff;
-}
-
-
-h3 {
+h3 h1 h2 p{
   color: white;
 }
 
-p {
-  color: white;
-}
 
 body{
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-snowflake-background.png") no-repeat top center fixed;
@@ -26,27 +13,6 @@ body{
     color: white;
 }
 
-.products-grid .product-grid-item{
-    background-color: #cc2936 !important;
-}
-
-.products-grid .card-title a{
-    color: #fff !important;
-}
-
-.products-grid .product-grid-item .btn-primary {
-    border-color: #fff !important;
-    background-color: #cc2936 !important;
-}
-
-.products-grid .product-grid-item .btn-outline-primary {
-    border-color: #fff !important;
-    color: #fff !important;
-}
-
-.product-add-to-cart .form-group label{
-    color: #000 !important;
-}
 
 .top-bar {
     display: none;
