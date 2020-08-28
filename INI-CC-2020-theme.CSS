@@ -20,12 +20,12 @@ body{
 }
 
 .boxed {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.jpg") no-repeat top center;
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
     text-align: center; 
     /*border: 1px solid #cc2936; */
     padding-left: 10px; 
     padding-right: 10px;
-    background-size: 100%;
+    background-size: 100% 100%;
 }
 
 .page-content {
