@@ -20,12 +20,13 @@ body{
 }
 
 .boxed {
-    
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
+        padding: 8% 9% 5% 5%;
     text-align: center; 
-    @media screen (min-width: 1124px) {
+    /*@media screen (min-width: 1124px) {
         background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
         padding: 8% 9% 5% 5%;
-    }
+    }*/
     
     /*@media screen (max-width: 1124px) {
         background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-snowflake-background.png") no-repeat top center;
