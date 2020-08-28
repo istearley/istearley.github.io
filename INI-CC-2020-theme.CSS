@@ -23,10 +23,11 @@ body{
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
     text-align: center; 
     /*border: 1px solid #cc2936; */
-    @media screen (min-width: 1124px) {
+    /* @media screen (min-width: 1124px) {
         padding: 8% 9% 5% 5%;
-    }
+    } */
 
+    padding: 8% 9% 5% 5%;
     @media screen (max-width: 1124px) {
         padding: 12% 9% 10% 5%;
     }
