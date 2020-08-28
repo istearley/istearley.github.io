@@ -28,6 +28,10 @@ body{
     color: #000000;
 }
 
+.boxed h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
 
 
 .page-content {
