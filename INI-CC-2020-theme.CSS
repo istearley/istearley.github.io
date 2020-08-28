@@ -25,7 +25,7 @@ body{
     /*border: 1px solid #cc2936; */
     padding-left: 10px; 
     padding-right: 10px;
-    background-size:contain;
+    background-size: 100%;
 }
 
 .page-content {
