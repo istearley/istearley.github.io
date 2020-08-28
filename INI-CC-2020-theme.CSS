@@ -17,14 +17,14 @@ p {
   color: white;
 }
 
-body{
+/*body{
     background: url("https://cdn.givecloud.co/s/files/1/0000/0770/files/background-3.png") no-repeat top center fixed;
     background-size: cover;
     margin: 0;
     padding: 0;
     width: 100%;
     color: white;
-}
+}*/
 
 .products-grid .product-grid-item{
     background-color: #cc2936 !important;
@@ -49,5 +49,5 @@ body{
 }
 
 .text-green {
-    color: greenyellow;
+    color: greenyellow !important;
 }
