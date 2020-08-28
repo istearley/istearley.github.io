@@ -48,3 +48,6 @@ body{
     color: #000 !important;
 }
 
+.top-bar {
+    display: none;
+}
