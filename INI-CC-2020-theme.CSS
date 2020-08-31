@@ -23,11 +23,11 @@ body{
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     text-align: center; 
-    
-    
-    
-    
     background-size: 100% 100%;
+    color: #000000;
+}
+
+.boxed p, h3, h2, h1 {
     color: #000000;
 }
 
