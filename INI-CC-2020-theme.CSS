@@ -18,8 +18,8 @@ body{
 /*.top-bar {
     display: none;
 }*/
-
-ul.nav li.nav-item:first-of-type {
+/* Turns off the shopping cart in the main menu for desktop. Remove this when a true fix is implemented. */
+ul.nav:nth-of-type(3) li.nav-item:first-of-type {
     display: none;
 }
 
