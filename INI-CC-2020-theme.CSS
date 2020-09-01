@@ -14,11 +14,18 @@ body{
     color: white;
 }
 
-
+/* Remove the top nav bar */
 .top-bar {
     display: none;
 }
 
+@media (min-width: 992px) {
+    .header-spacer.with-top-bar-alt {
+        height: 0px;
+    }
+}
+
+/* End Remove the top nav bar */
 
 .boxed {
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
