@@ -182,3 +182,15 @@ div.collection>img {
     color: white;
     text-align: center;
 }
+
+
+.itemBox {
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/blue-background-landscape.jpg") no-repeat top center;
+        /*padding: 8% 9% 5% 5%;*/
+    background-size:cover;
+
+
+    text-align: center; 
+    background-size: 100% 100%;
+    color: #000000;
+}
