@@ -94,3 +94,91 @@ body{
     color: white;
     font-weight: bold;
 }
+
+
+.landscape-text-overlay {
+    position: relative;
+    transform: translate(0, 370%);
+    color: white;
+    z-index: 1;
+}
+.landscape-button-overlay {
+    position: relative;
+    
+    transform: translate(0, 430%);
+    color: white;
+    border-color: white;
+    background-color: transparent;
+    font-weight: 900;
+    letter-spacing: 1px;
+    
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-47%, 300%);
+    color: white;
+}
+
+.button-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 400%);
+    color: white;
+    border-color: white;
+    background-color: transparent;
+    font-weight: 900;
+    letter-spacing: 1px;
+    
+}
+
+.img {
+    
+    
+}
+
+.col-md-4 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.col-md-6 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.collection {
+    width: 100%;
+    background-size: contain;
+    border-radius: 5% !important;
+    
+    
+    height: 0px;
+    padding-bottom: 66.66%;
+    
+}
+
+div.collection>img {
+    filter: brightness(80%);
+}
+
+
+
+.collection:hover img{
+    opacity: 10;
+    
+    
+}
+
+.centering-wrapper {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    text-align: center;
+}

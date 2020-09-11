@@ -1,0 +1,13 @@
+.customMenu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: uppercase;
+    
+}
+
+.customMenu a{
+    color: white;
+    font-weight: bolder;
+}
