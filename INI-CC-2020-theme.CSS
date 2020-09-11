@@ -47,6 +47,10 @@ body{
         /*background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;*/
         padding: 8% 9% 5% 5%;
 }
+
+    .titleImage {
+        background-position: center top;
+}
 }
 
 @media only screen and (max-width: 1124px) {
@@ -55,7 +59,9 @@ body{
         background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/tall-paper-ripped.png") no-repeat top center;
     }
     
-    
+    .titleImage {
+        background-position: left top;
+    }
 }
 
 /* .boxed h2 {
@@ -75,7 +81,7 @@ body{
 .titleImage {
     height: 500px;
     background-image: url('https://cdn.givecloud.co/s/files/1/0000/0348/files/2nd-page-spread-1.jpg'); 
-    background-position: center top; 
+     
     background-size: cover; 
     background-attachment: fixed; 
     background-color: #8c8c8c; 
