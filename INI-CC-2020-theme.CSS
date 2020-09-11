@@ -71,3 +71,20 @@ body{
 .collection-filters {
     display: none;
 }
+
+.titleImage {
+    height: 500px;
+    background-image: url('https://cdn.givecloud.co/s/files/1/0000/0348/files/2nd-page-spread-1.jpg'); 
+    background-position: center top; 
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-color: #8c8c8c; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.titleImage h2 {
+    color: white;
+    font-weight: bold;
+}
