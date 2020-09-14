@@ -207,3 +207,7 @@ div.collection>img {
     border-color: #18649f !important;
     background-color: #18649f !important;
 }
+
+.card-price {
+    display: none;
+}
