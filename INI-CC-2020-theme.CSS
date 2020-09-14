@@ -38,7 +38,7 @@ body{
     color: #000000;
 }
 
-div.boxed p, h3, h2, h1 {
+div.boxed p, div.boxed h3, div.boxed h2, div.boxed h1 {
     color: #000000;
 }
 
