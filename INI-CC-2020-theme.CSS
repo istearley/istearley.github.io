@@ -195,7 +195,7 @@ div.collection>img {
 .product-grid-item {
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/brown-motif-no-tear.jpg") no-repeat top center;
         /*padding: 8% 9% 5% 5%;*/
-    background-size:cover;
+    background-size: 100%;
 
 
     text-align: center; 
