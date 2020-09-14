@@ -205,3 +205,8 @@ div.collection>img {
     background-size: 100% 100%;
     color: #000000;
 }
+
+.card-actions a{
+    border-color: #18649f !important;
+    background-color: #18649f !important;
+}
