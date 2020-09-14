@@ -216,3 +216,7 @@ div.collection>img {
 .card-price {
     display: none !important;
 }
+
+.storyImage {
+    border-radius: 10px;
+}
