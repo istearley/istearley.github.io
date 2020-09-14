@@ -204,10 +204,10 @@ div.collection>img {
 }
 
 .card-actions a{
-    border-color: #18649f !important;
-    background-color: #18649f !important;
+    border-color: #18649f;
+    background-color: #18649f;
 }
 
 .card-price {
-    display: none;
+    display: none; !important
 }
