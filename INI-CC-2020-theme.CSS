@@ -204,8 +204,8 @@ div.collection>img {
 }
 
 .card-actions a{
-    border-color: #18649f;
-    background-color: #18649f;
+    border-color: #18649f !important;
+    background-color: #18649f !important;
 }
 
 .card-price {
