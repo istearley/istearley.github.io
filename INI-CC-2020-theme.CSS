@@ -82,7 +82,7 @@ body{
     height: 500px;
     background-image: url('https://cdn.givecloud.co/s/files/1/0000/0348/files/take2.jpg'); 
      
-    background-size: auto 500px;
+    background-size: auto 90%;
     background-attachment: fixed; 
     background-color: #8c8c8c; 
     display: flex; 
