@@ -84,10 +84,11 @@ body{
      
     background-size: auto 90%;
     background-attachment: fixed; 
-    background-color: #8c8c8c; */
-    display: flex; 
+    background-color: #8c8c8c; 
     justify-content: center; 
-    align-items: center;
+    align-items: center;*/
+    display: flex; 
+    
 }
 
 .titleImage h2 {
@@ -206,6 +207,10 @@ div.collection>img {
 .card-actions a{
     border-color: #18649f !important;
     background-color: #18649f !important;
+}
+
+.btn-outline-primary {
+    color: white !important;
 }
 
 .card-price {
