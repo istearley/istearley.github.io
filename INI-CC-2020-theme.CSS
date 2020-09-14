@@ -185,7 +185,7 @@ div.collection>img {
 
 
 .itemBox {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/blue-background-landscape.jpg") no-repeat top center;
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/blue-background-landscape.jpg") repeat-y top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size:cover;
 
