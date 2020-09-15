@@ -183,7 +183,7 @@ div.collection>img {
 
 
 .itemBox {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/blue-background-mirrored.jpg") repeat top center;
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rough-brown-big.png") repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size:cover;
 
@@ -194,7 +194,7 @@ div.collection>img {
 }
 
 .product-grid-item {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/brown-motif-no-tear.jpg") no-repeat top center;
+    /*background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/brown-motif-no-tear.jpg") no-repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size: 100%;
 
