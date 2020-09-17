@@ -1,12 +1,12 @@
 
-h3, h1, h2, p{
-  color: white;
+h3, h1, h2{
+  color: #1879bf;
   text-align: center;
 }
 
 
 body{
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-snowflake-background.png") no-repeat top center fixed;
+    /*background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-snowflake-background.png") no-repeat top center fixed;*/
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -28,14 +28,14 @@ body{
 /* End Remove the top nav bar */
 
 .boxed {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;
+    background: url("#") no-repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size:cover;
 
 
     text-align: center; 
     background-size: 100% 100%;
-    color: #000000;
+    color: #ffffff;
 }
 
 div.boxed p, div.boxed h3, div.boxed h2, div.boxed h1 {
@@ -56,7 +56,7 @@ div.boxed p, div.boxed h3, div.boxed h2, div.boxed h1 {
 @media only screen and (max-width: 1124px) {
     .boxed {
         padding: 33% 9% 20% 5%;
-        background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/tall-paper-ripped.png") no-repeat top center;
+        background: url("#") no-repeat top center;
     }
     
     .titleImage {
@@ -183,7 +183,7 @@ div.collection>img {
 
 
 .itemBox {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rough-brown-big.png") repeat top center;
+    background: url("#") repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size:cover;
 
