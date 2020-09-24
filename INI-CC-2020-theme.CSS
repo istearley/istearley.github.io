@@ -261,10 +261,10 @@ color: #000000;
     background-color: red;
 }
 
-.toc:nth-of-type(odd) > .container > .flex {
+.toc:nth-of-type(odd) > .container > .py-5 > .flex {
     background-color: blue !important;
 }
 
-.toc:nth-of-type(odd) > .container > .row > .toc-image {
+.toc:nth-of-type(odd) > .container > .py-5 > .row > .toc-image {
     background-color: blueviolet;
 }
