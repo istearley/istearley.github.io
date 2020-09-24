@@ -286,7 +286,7 @@ a.btn.btn-red {
 .desktop-menu .menu-items {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     width: 75%;
     padding-left: 5%;
