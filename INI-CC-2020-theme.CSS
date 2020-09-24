@@ -264,8 +264,14 @@ a.btn.btn-red {
     background-size:cover;   
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     
+}
+
+.desktop-menu .menu-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
 
 .desktop-menu h3 {
