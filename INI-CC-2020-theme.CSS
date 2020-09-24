@@ -272,30 +272,6 @@ a.btn.btn-red {
     border-color: #da3747;
 }
 
-.desktop-menu {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-menu-snowflakes.jpg") repeat top center;
-    background-size:cover;   
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 122px;
-    align-items: center;
-    
-}
-
-.desktop-menu .menu-items {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    width: 75%;
-    padding-left: 5%;
-}
-
-.desktop-menu h3 {
-    color: white;
-}
-
 
 header.christmas {
     display: flex;
