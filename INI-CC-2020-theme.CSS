@@ -253,7 +253,7 @@ color: #000000;
 
 .toc:nth-of-type(odd) > .container > .py-5 > .flex > .toc-image { order: 1; }
 
-.toc-text > .mceEditable {
+.toc-image > .mceEditable {
     display: flex;
     align-items: center;
 }
