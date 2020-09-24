@@ -252,3 +252,19 @@ color: #000000;
 }
 
 .toc:nth-of-type(odd) > .container > .row > .toc-image { order: 1; }
+
+.toc:nth-of-type(odd) {
+    background-color: green;
+}
+
+.toc:nth-of-type(odd) > .container {
+    background-color: red;
+}
+
+.toc:nth-of-type(odd) > .container > .row {
+    background-color: blue;
+}
+
+.toc:nth-of-type(odd) > .container > .row > .toc-image {
+    background-color: blueviolet;
+}
