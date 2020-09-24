@@ -247,3 +247,8 @@ color: #000000;
     text-align: center;
 }
 
+.flex {
+    display: flex;
+}
+
+.toc-text:nth-of-type(odd) { order: 1; }
