@@ -261,7 +261,7 @@ color: #000000;
     background-color: red;
 }
 
-.toc:nth-of-type(odd) > .container > .row {
+.toc:nth-of-type(odd) > .container > .flex {
     background-color: blue !important;
 }
 
