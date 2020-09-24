@@ -223,6 +223,7 @@ div.collection>img {
 
 .red {
     color: #cf2437;
+    text-transform: capitalize;
 }
 
 .uppercase {
