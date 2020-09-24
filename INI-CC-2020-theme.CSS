@@ -251,7 +251,7 @@ color: #000000;
     display: flex;
 }
 
-.toc:nth-of-type(odd) > .container > .flex > .toc-image { order: 1; }
+.toc:nth-of-type(odd) > .container > .py-5 > .flex > .toc-image { order: 1; }
 
 .toc:nth-of-type(odd) {
     background-color: green;
