@@ -251,4 +251,4 @@ color: #000000;
     display: flex;
 }
 
-.toc-text:nth-of-type(odd) { order: 1; }
+.toc-image:nth-of-type(odd) { order: 1; }
