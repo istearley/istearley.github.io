@@ -222,7 +222,7 @@ div.collection>img {
 }
 
 .red {
-    color: #cf2437;
+    color: #da3747;
     text-transform: capitalize;
 }
 
@@ -255,6 +255,6 @@ color: #000000;
 
 a.btn.btn-red {
     color: #fff !important;
-    background-color: #cf2437;
-    border-color: #cf2437;
+    background-color: #da3747;
+    border-color: #da3747;
 }
