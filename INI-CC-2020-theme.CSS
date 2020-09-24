@@ -252,3 +252,9 @@ color: #000000;
 }
 
 .toc:nth-of-type(odd) > .container > .py-5 > .flex > .toc-image { order: 1; }
+
+a.btn.btn-red {
+    color: #fff !important;
+    background-color: #cf2437;
+    border-color: #cf2437;
+}
