@@ -43,6 +43,12 @@ div.boxed p, div.boxed h3, div.boxed h2, div.boxed h1 {
 }
 
 @media only screen and (min-width: 1124px) {
+    
+    .header.christmas {
+        display: none;
+    }
+
+
     .boxed {
         /*background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;*/
         padding: 8% 9% 5% 5%;
