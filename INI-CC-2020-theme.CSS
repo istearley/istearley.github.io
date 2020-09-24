@@ -273,6 +273,7 @@ a.btn.btn-red {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    width: 50%;
 }
 
 .desktop-menu h3 {
