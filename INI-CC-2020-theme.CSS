@@ -29,6 +29,18 @@ body{
 
 .white-boxed {
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/white-bubble-bg.jpg") no-repeat top center;
+    padding: 8% 9% 5% 5%;
+    background-size:101vw;
+
+
+    text-align: center; 
+    background-size: 100% 100%;
+    color: #ffffff;
+}
+
+
+.red-boxed {
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-bg-wide.jpg") no-repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size:101vw;
 
@@ -38,7 +50,7 @@ body{
     color: #ffffff;
 }
 
-div.boxed p, div.boxed h3, div.boxed h2, div.boxed h1 {
+div.white-boxed p, div.white-boxed h3, div.white-boxed h2, div.white-boxed h1 {
     color: #000000;
 }
 
@@ -49,10 +61,7 @@ div.boxed p, div.boxed h3, div.boxed h2, div.boxed h1 {
     }
 
 
-    .boxed {
-        /*background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/rippedpapertape.png") no-repeat top center;*/
-        padding: 8% 9% 5% 5%;
-}
+    
 
     .titleImage {
         background-position: left top;
