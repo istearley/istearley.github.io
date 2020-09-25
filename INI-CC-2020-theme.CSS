@@ -237,7 +237,7 @@ div.collection>img {
 }
 
 .red {
-    color: #da3747;
+    color: #da3747 !important;
     text-transform: capitalize;
 }
 
