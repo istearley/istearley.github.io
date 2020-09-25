@@ -236,7 +236,7 @@ div.collection>img {
     text-transform: capitalize;
 }
 
-.toc:nth-of-type(even) {
+.toc:nth-of-type(odd) {
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/white-bubble-bg.jpg") repeat top center;
     /*padding: 8% 9% 5% 5%;*/
 background-size:cover;
@@ -261,7 +261,7 @@ color: #000000;
     width: 50%;
 }
 
-.toc:nth-of-type(odd) > .container > .py-5 > .flex > .toc-image { order: 1; }
+.toc:nth-of-type(even) > .container > .py-5 > .flex > .toc-image { order: 1; }
 
 .toc-image > .mceEditable {
     display: flex;
