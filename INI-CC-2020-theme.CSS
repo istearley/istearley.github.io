@@ -303,6 +303,7 @@ nav {
 
 .nav_links {
     list-style: none;
+    padding-left: 0px;
 }
 
 .nav_links li {
