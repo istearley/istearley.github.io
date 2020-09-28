@@ -28,7 +28,7 @@ body{
 /* End Remove the top nav bar */
 
 .white-boxed {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/white-bubble-bg.jpg") no-repeat top center fixed;
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/white-bubble-bg.jpg") repeat-y top center fixed;
     padding: 8% 9% 5% 5%;
     background-size:101vw;
 
