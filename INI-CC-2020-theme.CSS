@@ -541,3 +541,6 @@ div.hamburger > div {
     margin: auto;
 }
 
+body > div.page-content > section > div.pb-5 > div.row {
+    justify-content: center;
+}
