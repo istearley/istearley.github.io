@@ -232,9 +232,9 @@ div.collection>img {
     display: none !important;
 }
 
-/*.storyImage {
-    border-radius: 10px;
-}*/
+.storyImage {
+    max-height: 75vh;
+}
 
 .red {
     color: #da3747 !important;
