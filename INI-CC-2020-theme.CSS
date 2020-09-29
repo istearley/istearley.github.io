@@ -525,7 +525,9 @@ div.hamburger > div {
     }
 }
 
-
+.header-spacer {
+    height: 44px;
+}
 
 .side-bar {
     display: none;
