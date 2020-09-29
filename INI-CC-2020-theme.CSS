@@ -531,3 +531,9 @@ div.hamburger > div {
     display: none;
 }
 
+.catIntro {
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
