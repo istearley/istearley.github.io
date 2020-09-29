@@ -235,6 +235,9 @@ div.collection>img {
 .storyImage {
     max-height: 75vh;
     min-height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .red {
