@@ -250,7 +250,7 @@ div.collection>img {
 }
 
 .toc:nth-of-type(odd) {
-    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/white-bubble-bg.jpg") repeat top center;
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/white-bubble-large.jpg") repeat top center fixed;
     /*padding: 8% 9% 5% 5%;*/
 background-size:cover;
 
