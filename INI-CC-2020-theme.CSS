@@ -38,6 +38,9 @@ body{
 
 }
 
+div.white-boxed p, div.white-boxed h3, div.white-boxed h2, div.white-boxed h1 {
+    color: #000000;
+}
 
 .red-boxed {
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-bg-wide.jpg") no-repeat top center;
@@ -48,10 +51,11 @@ body{
     text-align: center; 
     background-size: 100% 100%;
     color: #ffffff;
+    
 }
 
-div.white-boxed p, div.white-boxed h3, div.white-boxed h2, div.white-boxed h1 {
-    color: #000000;
+div.red-boxed p, div.red-boxed h1, div.red-boxed h2, div.red-boxed h3 {
+    color: #ffffff;
 }
 
 @media only screen and (min-width: 1124px) {
