@@ -337,6 +337,8 @@ nav {
     
 }
 
+
+
 a.nav-atn {
     background-color: #0f639e;
     border-radius: .7rem;
@@ -530,6 +532,10 @@ div.hamburger > div {
     
     .top-bar-alt {
     display: none !important;
+    }
+
+    .logo {
+        max-width: 50vw;
     }
 }
 
