@@ -427,6 +427,7 @@ div.hamburger > div {
     .menu-wrap .toggler:checked + .hamburger > div:after {
             top: 0;
             transform: rotate(90deg);
+            background-color: green;
         }
         
 .menu-wrap .menu {
