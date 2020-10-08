@@ -463,7 +463,7 @@ div.hamburger > div {
 
 .menu-wrap .menu > div {
     background-color: #1879bf;
-    border-radius: 3rem;
+    /* border-radius: 3rem;*/
     width: 75vw;
     height: 130vw;
     display: flex;
