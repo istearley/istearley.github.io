@@ -415,10 +415,7 @@ div.hamburger > div {
 
 /* Toggler Animate */
 
-.menu-wrap .toggler:checked + .hamburger {
-    padding-top: 20px;
 
-}
 
 .menu-wrap .toggler:checked + .hamburger > div {
     transform: rotate(135deg);
