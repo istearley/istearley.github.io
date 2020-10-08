@@ -472,7 +472,7 @@ div.hamburger > div {
     background-color: #1879bf;
     /* border-radius: 3rem;*/
     width: 75vw;
-    height: 130vw;
+    height: 100%;
     display: flex;
     flex: none;
     align-items: center;
