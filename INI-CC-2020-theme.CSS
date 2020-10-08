@@ -417,6 +417,7 @@ div.hamburger > div {
 
 .menu-wrap .toggler:checked + .hamburger > div {
     transform: rotate(135deg);
+    padding-top: 8px;
     
 }
 
