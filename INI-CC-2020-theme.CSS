@@ -417,7 +417,7 @@ div.hamburger > div {
 
 .menu-wrap .toggler:checked + .hamburger {
     padding-top: 20px;
-    background-color: green;
+
 }
 
 .menu-wrap .toggler:checked + .hamburger > div {
