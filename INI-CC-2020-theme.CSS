@@ -443,11 +443,13 @@ div.hamburger > div {
     display: flex;
     align-items: center;
     justify-content: left;
+    display: none;
 }
 
 /* Show Menu */
 .menu-wrap .toggler:checked ~ .menu {
     visibility: visible;
+    display: block;
     
 }
 
@@ -559,3 +561,4 @@ div.hamburger > div {
 body > div.page-content > section > div.pb-5 > div.row {
     justify-content: center;
 }
+
