@@ -531,7 +531,7 @@ div.hamburger > div {
     
     .desktop-menu {
         display: none !important;
-        text-align: right;
+        text-align: right !important;
     }
     
     .header-spacer {
