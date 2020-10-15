@@ -530,7 +530,7 @@ div.hamburger > div {
     }
     
     .desktop-menu {
-        display: none !important;
+        /*  display: none !important;*/
         text-align: right !important;
     }
     
