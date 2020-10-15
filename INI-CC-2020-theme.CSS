@@ -565,3 +565,7 @@ body > div.page-content > section > div.pb-5 > div.row {
     justify-content: center;
 }
 
+/* Make Item Descriptions Bold */
+body > div.page-content > div.product-description.product-description-211.container.py-5.body-min-height > div.row > div.col-lg-7.col-md-8.col-12 > p {
+    font-weight: bold;
+}
