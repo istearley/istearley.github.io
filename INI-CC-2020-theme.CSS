@@ -530,8 +530,8 @@ div.hamburger > div {
     }
     
     .desktop-menu {
-        /*  display: none !important;*/
-        text-align: right !important;
+        display: none !important;
+        
     }
     
     .header-spacer {
@@ -547,7 +547,9 @@ div.hamburger > div {
     }
 }
 
-
+.desktop-menu {
+    text-align: right;
+}
 
 .side-bar {
     display: none;
