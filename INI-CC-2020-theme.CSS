@@ -371,9 +371,9 @@ a.nav-atn {
 }
 
 .menu-wrap .hamburger {
-    position: fixed;
+    /*position: fixed;
     top: 0;
-    left: 0;
+    left: 0;*/
     z-index: 1;
     width: 60px;
     height: 60px;
@@ -455,7 +455,7 @@ div.hamburger > div {
 
 .menu-wrap .toggler:checked ~ .hamburger {
     position: fixed;
-    /*bottom: 5;*/
+    bottom: 5;
 }
 
 .menu-wrap .toggler:checked ~ .menu > div {
