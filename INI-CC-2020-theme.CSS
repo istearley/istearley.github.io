@@ -455,7 +455,7 @@ div.hamburger > div {
 
 .menu-wrap .toggler:checked ~ .hamburger {
     position: fixed;
-    bottom: 5;
+    /*bottom: 5;*/
 }
 
 .menu-wrap .toggler:checked ~ .menu > div {
