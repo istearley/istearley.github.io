@@ -216,6 +216,7 @@ div.collection>img {
     /*background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-bg-wide.jpg") no-repeat top center;
         /*padding: 8% 9% 5% 5%;*/
     background-size: 100%;
+    box-shadow: none;
 
 
     text-align: center; 
