@@ -569,3 +569,29 @@ body > div.page-content > section > div.pb-5 > div.row {
 body > div.page-content > div.product-description > div.row > div.col-lg-7.col-md-8.col-12 > p {
     font-weight: bold;
 }
+
+.greyBack {
+    width: 100vw;
+    height: 100vh;
+    background-color: #b2b2b2;
+    background-color: rgba(0, 0, 0, .3);
+    text-align: center;
+    position: fixed;
+    z-index: 3;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .notice {
+      text-align: center;
+      background-color: #fff;
+      width: 500px;
+      max-width: 80%;
+      border-radius: 10px;
+      padding: 8px;
+      box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.15);
+      
+  }
