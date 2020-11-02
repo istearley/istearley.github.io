@@ -233,6 +233,10 @@ div.collection>img {
     color: white !important;
 }
 
+.btn-outline-info {
+    color: #ce2737 !important;
+}
+
 .card-price {
     display: none !important;
 }
