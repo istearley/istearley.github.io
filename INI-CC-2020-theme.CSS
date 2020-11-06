@@ -229,7 +229,7 @@ div.collection>img {
     background-color: #18649f !important;
 }
 
-.btn-outline-primary {
+ div.row > div.col-lg-7.col-md-8.col-12 > form > div:nth-child(5) > div.d-none.d-md-block.mt-5 > div.add-product-success > a {
     color: #1879bf !important;
 }
 
