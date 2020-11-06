@@ -233,6 +233,10 @@ div.collection>img {
     color: #1879bf !important;
 }
 
+body > div.page-content > section > div.pb-5 > div.row > div:nth-child(1) > div > div.card-actions.text-center.m-3 > a.btn.btn-sm.btn-outline-primary.d-inline-block.m-1 {
+    color: white;
+}
+
 .btn-outline-info {
     color: #ce2737 !important;
 }
