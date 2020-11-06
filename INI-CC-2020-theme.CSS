@@ -233,6 +233,10 @@ div.collection>img {
     color: #1879bf !important;
 }
 
+div.row > div.col-lg-7.col-md-8.col-12 > form > div:nth-child(5) > div.d-none.d-md-block.mt-5 > div.add-product-success > a:hover {
+    color: white;
+}
+
 body > div.page-content > section > div.pb-5 > div.row > div > div > div.card-actions.text-center.m-3 > a.btn.btn-sm.btn-outline-primary.d-inline-block.m-1 {
     color: white !important;
 }
