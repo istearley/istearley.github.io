@@ -245,6 +245,10 @@ body > div.page-content > section > div.pb-5 > div.row > div > div > div.card-ac
     color: #ce2737 !important;
 }
 
+.btn-outline-info:hover {
+    color: white !important;
+}
+
 .card-price {
     display: none !important;
 }
