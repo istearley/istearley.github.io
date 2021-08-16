@@ -20,3 +20,15 @@ p {
     color: #b51e54;
 }
 
+#ccMenu {
+    width: 100%;
+    display: flex;
+    align-items: flex-end safe;
+    justify-content: center;
+}
+
+.logo {
+    align-self: flex-start safe;
+    margin: auto;
+}
+
