@@ -237,6 +237,9 @@ div.hamburger > div {
 
     .logo {
         max-width: 50vw;
+        cursor: pointer;
+        margin-right: auto;
+        max-height: 50px;
     }
 }
 
