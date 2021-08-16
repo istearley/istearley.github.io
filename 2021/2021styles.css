@@ -235,7 +235,7 @@ div.hamburger > div {
     display: none !important;
     }
 
-    img.logo {
+    .logo {
         max-width: 50vw;
         cursor: pointer;
         margin-right: auto;
