@@ -285,3 +285,13 @@ header.christmas {
      text-transform: uppercase;
      font-weight: bold;
  }
+
+
+a.nav-atn {
+    background-color: #0f639e;
+    border-radius: .7rem;
+    padding: 0.3rem 1.1rem;
+    border-color: #0f639e;
+    color: white;
+    white-space: nowrap;
+}
