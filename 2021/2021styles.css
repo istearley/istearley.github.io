@@ -1,0 +1,13 @@
+
+
+/* This is the CSS file for the 2021 Christmas Catalog site */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+.purple {
+    color: #b51e54;
+}
+
