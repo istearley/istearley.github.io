@@ -311,3 +311,17 @@ a.nav-atn {
     background-color: none;
     background: none;
 }
+
+.categoryBackground {
+        
+    z-index: -2;
+    position: fixed;
+    top: 0;
+    
+    
+}
+
+.categoryBackground>img {
+        height: auto;
+        width: 100vw;
+    }
