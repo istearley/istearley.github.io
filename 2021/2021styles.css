@@ -275,6 +275,10 @@ header.christmas {
 }
 
 
+nav {
+    margin: 5px 5px;
+}
+
 .nav_links {
     list-style: none;
     padding-left: 0px;
