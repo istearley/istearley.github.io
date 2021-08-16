@@ -25,6 +25,11 @@ p {
     display: flex;
     align-items: flex-end safe;
     justify-content: center;
+
+    h5 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
 
 .logo {
