@@ -247,9 +247,7 @@ div.hamburger > div {
     text-align: right;
 }
 
-.desktop-menu>li {
-    color: black;
-}
+
 
 .side-bar {
     display: none;
@@ -287,7 +285,7 @@ header.christmas {
 }
 
  .nav_links li a {
-     color: white;
+     color: black;
      font-size: 14px;
      text-transform: uppercase;
      font-weight: bold;
