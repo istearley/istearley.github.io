@@ -34,11 +34,7 @@ p {
     padding-right: 20px;
 };
 
-.logo {
-    justify-self: flex-start safe;
-    margin: auto;
-    max-height: 50px;
-}
+
 
 
 
@@ -266,3 +262,26 @@ header.christmas {
     background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-menu-snowflakes.jpg") repeat top center;
     background-size:cover;  
 }
+
+
+.nav_links {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0rem .9rem;
+    
+}
+
+.nav_links li:nth-of-type(1) {
+    padding-left: 0;
+}
+
+ .nav_links li a {
+     color: white;
+     font-size: 14px;
+     text-transform: uppercase;
+     font-weight: bold;
+ }
