@@ -300,3 +300,9 @@ a.nav-atn {
     color: white;
     white-space: nowrap;
 }
+
+@media (min-width: 992px) {
+    .header-spacer.with-top-bar-alt {
+        height: 0px;
+    }
+}
