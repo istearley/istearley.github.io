@@ -213,6 +213,10 @@ div.hamburger > div {
     .menu-wrap {
         display: none;
     }
+
+    .header.christmas {
+        display: none;
+    }
     
     
 }
@@ -252,4 +256,13 @@ div.hamburger > div {
     max-width: 1000px;
     text-align: center;
     margin: auto;
+}
+
+header.christmas {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    padding: 30px 4%;
+    background: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/red-menu-snowflakes.jpg") repeat top center;
+    background-size:cover;  
 }
