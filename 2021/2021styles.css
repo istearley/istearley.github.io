@@ -13,6 +13,9 @@ p {
     text-align: center;
 }
 
+.top-bar {
+    display: none;
+}
 .purple {
     color: #b51e54;
 }
