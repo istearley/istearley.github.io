@@ -306,3 +306,8 @@ a.nav-atn {
         height: 0px;
     }
 }
+
+.page-content {
+    background-color: none;
+    background: none;
+}
