@@ -16,9 +16,14 @@ p {
 .top-bar {
     display: none;
 }
-.purple {
+h2.purple {
     color: #b51e54;
     background-color: #b51e54;
+}
+
+div.purple {
+    color: #b51e54;
+
 }
 
 #ccMenu {
