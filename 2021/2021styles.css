@@ -23,7 +23,7 @@ p {
 #ccMenu {
     width: 100%;
     display: flex;
-    align-items: flex-end safe;
+    align-items: center;
     justify-content: center;
 
     h5 {
@@ -33,7 +33,7 @@ p {
 }
 
 .logo {
-    align-self: flex-start safe;
+    justify-self: flex-start safe;
     margin: auto;
     max-height: 50px;
 }
