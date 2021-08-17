@@ -274,7 +274,7 @@ header.christmas {
     background-size:cover;  */
 }
 
-/*
+
 nav {
     margin-right: 5px;
 }
@@ -310,7 +310,7 @@ a.nav-atn {
     color: white;
     white-space: nowrap;
 }
-*/
+
 @media (min-width: 992px) {
     .header-spacer.with-top-bar-alt {
         height: 0px;
