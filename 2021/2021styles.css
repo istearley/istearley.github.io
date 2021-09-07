@@ -16,13 +16,23 @@ p {
 .top-bar {
     display: none;
 }
-h2.purple {
+h2.maroon {
     color: #b51e54;
     
 }
 
-div.purple {
+div.maroon {
     background-color: #b51e54;
+
+}
+
+h2.purple {
+    color: #832a88;
+    
+}
+
+div.purple {
+    background-color: #832a88;
 
 }
 
@@ -335,6 +345,11 @@ a.nav-atn {
         height: auto;
         width: 100vw;
     }
+
+.textBackground>img {
+    float: right;
+
+}
 
 .form-secondary {
     display: none;
