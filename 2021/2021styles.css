@@ -36,6 +36,16 @@ div.purple {
 
 }
 
+
+h2.green {
+    color: #41a948;
+    
+}
+
+div.green {
+    background-color: #41a948;
+}
+
 #ccMenu {
     width: 100%;
     display: flex;
