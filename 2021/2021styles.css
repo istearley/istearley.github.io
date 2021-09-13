@@ -369,3 +369,7 @@ a.nav-atn {
 .form-secondary {
     display: none;
 }
+
+.card-img-top {
+    clip-path: circle(80px at center);
+}
