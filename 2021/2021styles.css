@@ -371,7 +371,7 @@ a.nav-atn {
 }
 
 .card-img-top {
-    clip-path: circle(80px at center);
+    clip-path: circle(100px at center);
 }
 
 .product-grid-item {
