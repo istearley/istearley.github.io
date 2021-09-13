@@ -373,3 +373,8 @@ a.nav-atn {
 .card-img-top {
     clip-path: circle(80px at center);
 }
+
+.product-grid-item {
+    background: transparent !important;
+    box-shadow: none !important;
+}
