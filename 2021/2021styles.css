@@ -37,13 +37,23 @@ div.purple {
 }
 
 
+h2.orange {
+    color: #dd632d;
+    
+}
+
+div.orange {
+    background-color: #dd632d;
+}
+
+
 h2.green {
-    color: #41a948;
+    color: #2b4f43;
     
 }
 
 div.green {
-    background-color: #41a948;
+    background-color: #2b4f43;
 }
 
 h2.blue {
@@ -351,7 +361,7 @@ a.nav-atn {
         
     z-index: -2;
     position: fixed;
-    top: 0;
+    : 0;
     
     
 }
