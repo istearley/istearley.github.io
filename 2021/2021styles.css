@@ -246,7 +246,7 @@ div.hamburger > div {
     height: 44px;
 }
 
-@media only screen and (min-width: 1027px) {
+@media only screen and (min-width: 1367px) {
     .menu-wrap {
         display: none;
     }
@@ -258,7 +258,7 @@ div.hamburger > div {
     
 }
 
-@media only screen and (max-width: 1027px) {
+@media only screen and (max-width: 1367px) {
     .headspace {
         display: none;
     }
