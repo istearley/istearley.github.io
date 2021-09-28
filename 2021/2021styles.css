@@ -389,7 +389,7 @@ a.nav-atn {
     box-shadow: none !important;
 }
 
-@media only screen and (min-width: 1027px) {
+@media only screen and (min-width: 1367px) {
     .mistletoe {
         display: block;
     }
@@ -399,7 +399,7 @@ a.nav-atn {
     }
 }
 
-@media only screen and (max-width: 1027px) {
+@media only screen and (max-width: 1367px) {
     .mistletoe {
         display: none;
     }
