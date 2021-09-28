@@ -8793,9 +8793,9 @@ header {
     header .top-bar.font-sm {
       font-size: 0.8rem; }
     header .top-bar.font-sans {
-      font-famiy: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
     header .top-bar.font-serif {
-      font-famiy: "Open Sans", Georgia, serif; }
+      font-family: "Open Sans", Georgia, serif; }
     header .top-bar.font-bold {
       font-weight: bold; }
       header .top-bar.font-bold .nav .nav-link, header .top-bar.font-bold .nav .nav-link:active, header .top-bar.font-bold .nav .nav-link:visited, header .top-bar.font-bold .nav .nav-link:focus {
