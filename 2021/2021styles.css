@@ -434,3 +434,7 @@ a.nav-atn {
 .toc-image > .mceEditable > img {
     margin: auto;
 }
+
+.uppercase {
+    text-transform: capitalize;
+}
