@@ -246,7 +246,7 @@ div.hamburger > div {
     height: 44px;
 }
 
-@media only screen and (min-width: 1367px) {
+@media only screen and (min-width: 1027px) {
     .menu-wrap {
         display: none;
     }
@@ -258,7 +258,7 @@ div.hamburger > div {
     
 }
 
-@media only screen and (max-width: 1367px) {
+@media only screen and (max-width: 1027px) {
     .headspace {
         display: none;
     }
@@ -394,7 +394,7 @@ a.nav-atn {
     box-shadow: none !important;
 }
 
-@media only screen and (min-width: 1367px) {
+@media only screen and (min-width: 1027px) {
     .mistletoe {
         display: block;
     }
@@ -404,7 +404,7 @@ a.nav-atn {
     }
 }
 
-@media only screen and (max-width: 1367px) {
+@media only screen and (max-width: 1027px) {
     .mistletoe {
         display: none;
     }
