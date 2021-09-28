@@ -408,3 +408,29 @@ a.nav-atn {
         display: block;
     }
 }
+
+
+.toc-text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.toc-image {
+    width: 50%;
+}
+
+.toc:nth-of-type(even) > .container > .py-5 > .flex > .toc-image { order: 1; }
+
+.toc-image > .mceEditable {
+    display: flex;
+    align-items: center;
+}
+
+.toc-image > .mceEditable > img {
+    margin: auto;
+}
