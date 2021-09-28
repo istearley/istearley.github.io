@@ -361,7 +361,7 @@ a.nav-atn {
         
     z-index: -2;
     position: fixed;
-    : 0;
+    top : 0;
     
     
 }
