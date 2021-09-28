@@ -276,7 +276,7 @@ div.hamburger > div {
     display: none !important;
     }
 
-    .logo {
+    a > img.logo {
         max-width: 50vw;
         cursor: pointer;
         margin-right: auto;
@@ -438,3 +438,4 @@ a.nav-atn {
 .uppercase {
     text-transform: capitalize;
 }
+
