@@ -276,12 +276,14 @@ div.hamburger > div {
     display: none !important;
     }
 
-    a > img.logo {
-        max-width: 50vw;
-        cursor: pointer;
-        margin-right: auto;
-        max-height: 100px;
-    }
+    
+}
+
+.logo {
+    max-width: 50vw;
+    cursor: pointer;
+    margin-right: auto;
+    max-height: 100px;
 }
 
 .desktop-menu {
