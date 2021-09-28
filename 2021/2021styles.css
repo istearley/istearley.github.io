@@ -388,3 +388,23 @@ a.nav-atn {
     background: transparent !important;
     box-shadow: none !important;
 }
+
+@media only screen and (min-width: 1027px) {
+    .mistletoe {
+        display: block;
+    }
+
+    .noMistletoe {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1027px) {
+    .mistletoe {
+        display: none;
+    }
+
+    .noMistletoe {
+        display: block;
+    }
+}
