@@ -16,10 +16,16 @@ p {
 .top-bar {
     display: none;
 }
+
+.red {
+    color: 961a1d;
+}
+
 h2.maroon {
     color: #b51e54;
     
 }
+
 
 div.maroon {
     background-color: #b51e54;
