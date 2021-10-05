@@ -406,8 +406,12 @@ img.w-100 {
 }
 
 .product-grid-item {
-    background: transparent !important;
-    box-shadow: none !important;
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09) !important;
+}
+
+.card-body {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09) !important;
 }
 
 @media only screen and (min-width: 1027px) {
