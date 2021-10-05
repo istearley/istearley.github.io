@@ -401,6 +401,10 @@ a.nav-atn {
     clip-path: circle(100px at center);
 }
 
+img.w-100 {
+    clip-path: circle(100px at center);
+}
+
 .product-grid-item {
     background: transparent !important;
     box-shadow: none !important;
