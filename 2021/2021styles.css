@@ -485,3 +485,7 @@ hr {
 .white {
     background: white;
 }
+
+.card-price {
+    justify-content: center !important;
+}
