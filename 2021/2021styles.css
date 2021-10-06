@@ -399,6 +399,9 @@ a.nav-atn {
 
 .card-img-top {
     clip-path: circle(100px at center);
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
 }
 
 img.w-100 {
