@@ -478,3 +478,7 @@ hr {
     border: 0;
     position: relative;
 }
+
+.white {
+    background: white;
+}
