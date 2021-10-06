@@ -405,12 +405,12 @@ img.w-100 {
     clip-path: circle(100px at center);
 }
 
-.product-grid-item {
+/*.product-grid-item {
     background: #fff;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09) !important;
-}
+}*/
 
-.card-body {
+form > div > .card-body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09) !important;
 }
 
