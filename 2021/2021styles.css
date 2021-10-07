@@ -288,7 +288,7 @@ div.hamburger > div {
     }
 
     .headlessMobile {
-        padding-top: 0px;
+        padding-top: 0px !important;
     }
 
     
