@@ -287,6 +287,10 @@ div.hamburger > div {
     display: none !important;
     }
 
+    .headlessMobile {
+        padding-top: 0px;
+    }
+
     
 }
 
