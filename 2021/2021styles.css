@@ -484,6 +484,7 @@ hr {
     height: 100px;
     border: 0;
     position: relative;
+    min-width: 100px;
 }
 
 .white {
