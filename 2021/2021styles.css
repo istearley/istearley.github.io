@@ -494,3 +494,7 @@ hr {
 .card-price {
     justify-content: center !important;
 }
+
+.card-body {
+    margin-bottom: 0px;
+}
