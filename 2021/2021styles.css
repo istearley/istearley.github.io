@@ -132,7 +132,7 @@ div.hamburger > div {
     position: relative;
     width: 100%;
     height: 2px;
-    background-color: #8e181b;
+    background-color: #961a1d;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -210,7 +210,7 @@ div.hamburger > div {
 }
 
 .menu-wrap .menu > div {
-    background-color: #Cf2437;
+    background-color: #961a1d;
     /* border-radius: 3rem;*/
     width: 75vw;
     height: 100%;
