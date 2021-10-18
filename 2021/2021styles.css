@@ -415,6 +415,7 @@ img.w-100 {
 .product-grid-item {
     background: transparent !important;
     box-shadow: none !important;
+    text-align: center;
 }
 
 form > div > .card-body {
