@@ -1,12 +1,13 @@
 
 
 /* This is the CSS file for the 2022 Christmas Catalog site */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');*/
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'gotham', serif !important;
     text-align: center;
+    text-transform: uppercase;
 }
 
 p {
@@ -18,59 +19,58 @@ p {
     display: none;
 }
 
-.red {
-    color: #961a1d;
+ div.red {
+    color: #ffffff;
+    background-color: #e90000;
+}
+
+div.black {
+    color: #ffffff;
+    background-color: #000;
+}
+
+.white {
+    background: white;
+}
+
+p.red h1.red {
+    color: #e90000;
+}
+
+a.red-button {
+    background-color: #e90000;
+    color: #ffffff;
+    margin: 0;
+    border: none;
+    overflow: visible;
+    font: inherit;
+    color: inherit;
+    text-transform: none;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 20px;
+    vertical-align: middle;
+    font-size: 16px;
+    line-height: 43px;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.1s ease-in-out;
+    transition-property: color, background-color, background-position, border-color, box-shadow;
+    font-family: Lato;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    background-origin: border-box;
 }
 
 em {
-    color: #961a1d;
-}
-
-h2.maroon {
-    color: #b51e54;
-    
+    color: #e7a533;
 }
 
 
-div.maroon {
-    background-color: #b51e54;
-
-}
-
-h2.purple {
-    color: #832a88;
-    
-}
-
-div.purple {
-    background-color: #832a88;
-
-}
 
 
-h2.zainahOrange {
-    color: #dd632d;
-    
-}
-
-div.zainahOrange {
-    background-color: #dd632d;
-}
-
-
-h2.green {
-    color: #2b4f43;
-    
-}
-
-div.green {
-    background-color: #2b4f43;
-}
-
-h2.blue {
-    color: #1c75bb;
-    
-}
 
 #ccMenu {
     width: 100%;
@@ -387,16 +387,6 @@ a.nav-atn {
     
 }
 
-.categoryBackground>img {
-        height: auto;
-        width: 100vw;
-    }
-
-.textBackground>img {
-    float: right;
-
-}
-
 .form-secondary {
     display: none;
 }
@@ -422,27 +412,6 @@ form > div > .card-body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09) !important;
 }
 
-@media only screen and (min-width: 1027px) {
-    .mistletoe {
-        display: block;
-    }
-
-    .noMistletoe {
-        display: none;
-    }
-}
-
-@media only screen and (max-width: 1027px) {
-    .mistletoe {
-        display: none;
-    }
-
-    .noMistletoe {
-        display: block;
-    }
-}
-
-
 .toc-text {
     display: flex;
     align-items: center;
@@ -453,30 +422,6 @@ form > div > .card-body {
     display: flex;
 }
 
-.toc-image {
-    width: 50%;
-}
-
-@media only screen and (min-width: 1027px) {
-.toc:nth-of-type(even) > .container > .py-5 > .flex > .toc-image { order: 1; }
-}
-
-@media only screen and (max-width: 1027px) {
-    .toc:nth-of-type(even) > .container > .py-5 > .flex > .toc-image { order: 2; }
-    }
-
-.toc-image > .mceEditable {
-    display: flex;
-    align-items: center;
-}
-
-.toc-image > .mceEditable > img {
-    margin: auto;
-}
-
-.uppercase {
-    text-transform: capitalize;
-}
 
 hr {
     background: url('https://cdn.givecloud.co/s/files/1/0000/0348/files/ribbon-and-mistletoe-divider.png') no-repeat top center;
@@ -488,9 +433,7 @@ hr {
     min-width: 100px;
 }
 
-.white {
-    background: white;
-}
+
 
 .card-price {
     justify-content: center !important;
