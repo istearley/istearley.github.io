@@ -70,7 +70,9 @@ em {
 
 
 
-
+body {
+    background-color: #000;
+}
 
 #ccMenu {
     width: 100%;
