@@ -34,7 +34,7 @@ div.black {
 }
 
 p.red h1.red {
-    color: #e90000;
+    color: #e90000 !important;
 }
 
 a.red-button {
@@ -352,7 +352,7 @@ nav {
 }
 
  .nav_links li a {
-     color: black;
+     color: white;
      font-size: 14px;
      text-transform: uppercase;
      font-weight: bold;
