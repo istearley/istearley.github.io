@@ -33,7 +33,11 @@ div.black {
     background: white;
 }
 
-p.red h1.red {
+p.red {
+    color: #e90000 !important;
+}
+
+h1.red {
     color: #e90000 !important;
 }
 
@@ -394,9 +398,6 @@ a.nav-atn {
 }
 
 .card-img-top {
-    clip-path: circle(100px at center);
-    width: 200px; /* width of container */
-    height: 200px; /* height of container */
     object-fit: cover;
 }
 
