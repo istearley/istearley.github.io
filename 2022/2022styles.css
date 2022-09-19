@@ -41,6 +41,7 @@ h1.red {
     color: #e90000 !important;
 }
 
+
 a.red-button {
     background-color: #e90000;
     color: #ffffff !important;
@@ -444,4 +445,5 @@ hr {
 
 .card-body {
     padding-bottom: 0px;
+    text-align: center;
 }
