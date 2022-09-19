@@ -74,7 +74,11 @@ em {
     color: #e7a533;
 }
 
-
+.activity {
+    padding: 20px;
+    max-height: 80vh;
+    max-width: 400px;
+}
 
 body {
     background-color: #000;
