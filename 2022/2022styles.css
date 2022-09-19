@@ -43,7 +43,7 @@ h1.red {
 
 a.red-button {
     background-color: #e90000;
-    color: #ffffff;
+    color: #ffffff !important;
     margin: 0;
     border: none;
     overflow: visible;
