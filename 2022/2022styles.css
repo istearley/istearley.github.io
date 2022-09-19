@@ -81,7 +81,7 @@ em {
 }
 
 .cloudy {
-    background-image: 'https://cdn.givecloud.co/s/files/1/0000/0348/files/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring.png';
+    background-image: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring.png");
     background-color: #fff;
 
 }
