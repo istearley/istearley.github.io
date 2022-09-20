@@ -32,6 +32,7 @@ div.black {
 
 .white {
     background: white;
+    width: 100 vw;
 }
 
 p.red {
