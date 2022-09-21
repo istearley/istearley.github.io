@@ -95,7 +95,7 @@ em {
 }
 
 top-bar-alt {
-    background-color: #e90000;
+    background-color: #e90000 !important;
 }
 
 .cloudy {
