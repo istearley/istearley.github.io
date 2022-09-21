@@ -44,7 +44,7 @@ footer > h1, h2, h3, h4, h5, h6 {
     color: #fff !important;
 }
 
-p.red {
+p.red, h1.red, h2.red, h3.red, h4.red, h5.red, h6.red {
     color: #e90000 !important;
 }
 
@@ -96,6 +96,20 @@ em {
 
 .top-bar-alt {
     background-color: #e90000 !important;
+}
+
+.round {
+    clip-path: circle();
+}
+
+.itemCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemCardContent {
+    min-width: 300px;
 }
 
 .cloudy {
