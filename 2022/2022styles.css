@@ -109,7 +109,8 @@ em {
 
 .round {
     clip-path: circle();
-    max-width: 300px;
+    max-width: 200px;
+    padding-right: 20px;
 }
 
 .itemCard {
