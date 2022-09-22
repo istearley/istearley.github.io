@@ -2,15 +2,17 @@
 
 /* This is the CSS file for the 2022 Christmas Catalog site */
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-/*@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=BebasNeue&display=swap');
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Raleway', serif !important;
+    font-family: 'Bebas Neue', serif !important;
     text-align: center;
     text-transform: uppercase;
+    padding: 5px !important;
+    margin: 5px !important;
 }
 
-p, h1, h2, h3, h4, h5 {
+p {
     font-family: 'Raleway', sans-serif !important;
     text-align: center;
     color: white;
