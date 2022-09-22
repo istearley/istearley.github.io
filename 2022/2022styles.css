@@ -111,6 +111,7 @@ em {
 
 .itemCardContent {
     min-width: 300px;
+    text-align: left;
 }
 
 .cloudy {
