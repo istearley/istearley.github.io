@@ -152,6 +152,10 @@ margin: 0px;
     color: #000 !important;
 }
 
+.cloudy > p {
+    color: #000 !important;
+}
+
 body {
     background-color: #000;
 }
