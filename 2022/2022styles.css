@@ -148,6 +148,15 @@ margin: 0px;
     /*background-size: contain;*/
 }
 
+.cloudyFlip {
+
+        background-image: url("https://cdn.givecloud.co/s/files/1/0000/0348/files/cloudyflip.png");
+        background-color: #fff;
+        background-repeat: repeat;
+        /*background-size: contain;*/
+    
+}
+
 .cloudy > h1, h2, h3, h4, h5, p {
     color: #000 !important;
 }
