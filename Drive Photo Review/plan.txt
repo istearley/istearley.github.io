@@ -1,0 +1,19 @@
+Get source Drive
+Get target favs folder
+get user email
+Authenticate user on Drive
+get min image dimension
+
+def getMoreLines:
+    Get 100 lines
+    append to forFilter
+
+Async:
+for each item in forFilter:
+    if not( marked, or small, or reviewed by user):
+       add to reviewable list 
+
+For each item in reviewable list:
+    show item to user for review
+    if len(reviewable) < 4:
+        get more lines
