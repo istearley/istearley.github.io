@@ -127,6 +127,15 @@ em {
 
 }
 
+.tribItemCard {
+ 
+    align-items: center;
+    justify-content: center;
+    max-width: 100vw;
+    padding: 20px
+
+}
+
 .itemCardContent {
 
     text-align: left;
